@@ -1,4 +1,4 @@
-name: traffic-sign-recognition
+name: pytorch-cam
 channels:
   - https://conda.anaconda.org/menpo
   - conda-forge
