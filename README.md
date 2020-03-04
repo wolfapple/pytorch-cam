@@ -65,12 +65,12 @@ For Windows users, these following commands need to be executed from the **Anaco
   
   - __Linux__ or __Mac__: 
   ```sh
-  conda env create -f environment.yml
+  conda env create -f environment.yaml
   source activate pytorch-cam
   ```
   - __Windows__: 
   ```sh
-  conda env create -f environment.yml
+  conda env create -f environment.yaml
   activate pytorch-cam
   ```
   
